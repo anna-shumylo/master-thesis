@@ -1,2 +1,2 @@
-# master-thesis
-Collaborative filtering algorithm
+# anna-master-thesis
+Collaborative filtering methods
